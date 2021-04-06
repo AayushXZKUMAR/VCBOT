@@ -21,10 +21,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group 💬", url="https://t.me/maharashtrafriendcircle"
+                        "Group 💬", url="https://t.me/TeLeTiPsOfficialOnTopicChat"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/maharashtrafriendcircle"
+                        "Channel 📣", url="https://t.me/TeLeTiPsOfficialchannel"
                     )
                 ]
             ]
